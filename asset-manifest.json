@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/crypto-app/static/css/main.ad254d25.css",
-    "main.js": "/crypto-app/static/js/main.fa27f3d8.js",
-    "index.html": "/crypto-app/index.html",
-    "main.ad254d25.css.map": "/crypto-app/static/css/main.ad254d25.css.map",
-    "main.fa27f3d8.js.map": "/crypto-app/static/js/main.fa27f3d8.js.map"
+    "main.css": "/cryptic_minds/static/css/main.ad254d25.css",
+    "main.js": "/cryptic_minds/static/js/main.fa27f3d8.js",
+    "index.html": "/cryptic_minds/index.html",
+    "main.ad254d25.css.map": "/cryptic_minds/static/css/main.ad254d25.css.map",
+    "main.fa27f3d8.js.map": "/cryptic_minds/static/js/main.fa27f3d8.js.map"
   },
   "entrypoints": [
     "static/css/main.ad254d25.css",
