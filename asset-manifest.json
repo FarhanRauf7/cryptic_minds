@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptic_minds/static/css/main.d589c8d8.css",
+    "main.js": "/cryptic_minds/static/js/main.a6e578d1.js",
+    "index.html": "/cryptic_minds/index.html",
+    "main.d589c8d8.css.map": "/cryptic_minds/static/css/main.d589c8d8.css.map",
+    "main.a6e578d1.js.map": "/cryptic_minds/static/js/main.a6e578d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d589c8d8.css",
+    "static/js/main.a6e578d1.js"
+  ]
+}
